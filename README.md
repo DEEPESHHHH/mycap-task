@@ -1,2 +1,0 @@
-# mycap-task
-H.deepesh
